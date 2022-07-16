@@ -1,4 +1,4 @@
 # Desafio de Lógica (Cálculo da Ampulheta)
 
-- APRESENTAÇÃO -
-Seguindo na 1º etapa do Processo Seletivo da Mobix Software Studio sendo este o "Desafio de Lógica e Algoritmos" onde o programa deverá desenhar uma ampulheta com n >= 20, onde n é o input dado ao usuário.
+- OBSERVAÇÕES:
+Como não possuo domínio da linguagem de JavaScript (JS), optei por realizar o "Desafio de Lógica e Algoritmos" que, corresponde à primeira etapa do Processo Seletivo da Mobix Software Studio, na linguagem Python, pois possuo maior afinidade e experiência com a mesma.
